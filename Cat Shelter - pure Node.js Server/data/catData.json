@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Jinxy",
+        "description": "Affectionate, easygoing, sensible, friendly.",
+        "breed": "Persian",
+        "id": 1726851023509,
+        "image": "409960_Jinxy.jpeg"
+    },
+    {
+        "name": "Lili",
+        "description": "Sociable, easygoing, playful, inquisitive.",
+        "breed": "Caribbian",
+        "id": 1726850987821,
+        "image": "60307_Lili.jpg"
+    },
+    {
+        "name": "Ema",
+        "description": "Endearing, quiet, affectionate, gentle.",
+        "breed": "Fiji Love",
+        "id": 1726851110489,
+        "image": "697254_white_cat.jpg"
+    }
+]

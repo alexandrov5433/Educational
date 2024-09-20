@@ -1,0 +1,23 @@
+{
+  "name": "cat-shelter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "engines": {
+    "node": "20.13.1",
+    "npm": "10.8.1"
+  },
+  "keywords": [],
+  "author": "Alex",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.5"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
