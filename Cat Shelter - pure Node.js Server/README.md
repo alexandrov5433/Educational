@@ -8,6 +8,7 @@
 - searching through existing content with a search parameter (cat name or part of it - case insensitive)
 - deleting existing content
 - editing existing content
+- two JSON files were used as a database
 
 # Dependencies
 Only the package 'formidable' v3.5.1 was used for processing incomming multipart/form-data. 
